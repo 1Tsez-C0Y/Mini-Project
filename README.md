@@ -1,8 +1,8 @@
-Nama : Adnan Naufal Candra
+Nama : Wisnu Aji
 
-Nim : 2609116034
+Nim : 2609116022
 
-TEMA : SISTEM INFORMASI KETERSEDIAAN TEMPAT PARKIR KENDARAAN
+TEMA : Sistem manajemen kalender & reservasi gedung serbaguna
 
 A. Flowchart
 <img width="1457" height="1873" alt="Minpro drawio" src="https://github.com/user-attachments/assets/86709186-e0fa-45b2-8cd8-209acd10837c" />
