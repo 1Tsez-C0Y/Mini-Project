@@ -10,16 +10,20 @@ pejelasan : pada awalan program akan ditampilkan 1 dan 2 pilihan, yaitu pilihan 
 
 Jika memilih 1 akan ditampilkan kalender dan menu dari nomor 1 - 4, yang berisi:
 1. booking
-   dari kalender yang ditampilkan ada yang kosong dan terisi. Jika user mau booking dia harus memilih tanggal yang kosong setelahnya memasukan nama, nama acara atau kegiatannya, dan dp dengan nominal minumum Rp. 500.000.
 
-2. membatalkan reservasi
-   disini user bisa membatalkan reservasinya yang sudah dipesan dengan cara pertama memilih batalkan reservasi setelahnya memasukan tanggal yang mau dibatalkan dan nama yang digunakan buat reservasi guna buat memverifikasi user bahwa benar telah membooking di tanggal tersebut
+   Dari kalender yang ditampilkan ada yang kosong dan terisi. Jika user mau booking dia harus memilih tanggal yang kosong setelahnya memasukan nama, nama acara atau kegiatannya, dan dp dengan nominal minumum Rp. 500.000.
 
-3. mengganti tanggal reservasi
-   untuk mengganti tanggal reservasi sistem akan meminta user memasukan tanggal reservasi yang mau user ganti dan nama yang digunakan saat buat membooking di tanggal tersebut guna buat memverifikasi user, setelah user berhasil diverifikasi maka selanjutnya user bisa memilih mengganti tanggal bookingnya dengan tanggal yang kosong
+3. membatalkan reservasi
 
-4. keluar dari sistem
-   ini pilihan jika user ingin keluar atau mengakhiri program setelah user selesai membooking atau membatalkan atau mengganti tanggal reservasi atau sekedar ingin melihat jadwal reservasi gedung serbaguna
+   Disini user bisa membatalkan reservasinya yang sudah dipesan dengan cara pertama memilih batalkan reservasi setelahnya memasukan tanggal yang mau dibatalkan dan nama yang digunakan buat reservasi guna buat memverifikasi user bahwa benar telah membooking di tanggal tersebut
+
+4. mengganti tanggal reservasi
+
+   Untuk mengganti tanggal reservasi sistem akan meminta user memasukan tanggal reservasi yang mau user ganti dan nama yang digunakan saat buat membooking di tanggal tersebut guna buat memverifikasi user, setelah user berhasil diverifikasi maka selanjutnya user bisa memilih mengganti tanggal bookingnya dengan tanggal yang kosong
+
+6. keluar dari sistem
+
+   Ini pilihan jika user ingin keluar atau mengakhiri program setelah user selesai membooking atau membatalkan atau mengganti tanggal reservasi atau sekedar ingin melihat jadwal reservasi gedung serbaguna
 
 jika memilih 2 user akan keluar dari sistem sepenuhnya
 
